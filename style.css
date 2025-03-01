@@ -1,0 +1,156 @@
+
+body {
+    background-color: black;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #141414;
+    padding: 10px 20px;
+}
+
+.logo img {
+    width: 120px; 
+    height: auto;
+}
+
+.title {
+    color: white;
+    font-size: 24px;
+    text-transform: uppercase;
+    flex-grow: 1;
+    text-align: center;
+}
+
+.nav {
+    display: flex;
+    gap: 10px;
+    color: white;
+    text-decoration: none;
+}
+
+.nav-btn {
+    background-color: #333;
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+.nav-btn:hover {
+    background-color: #555;
+}
+
+.img-planet1 {
+    text-align: center;
+}
+
+.Earth1 {
+    color: white;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.Earth2 {
+    color: white;
+    text-align: center;
+    font-family: sans-serif;
+    background-color: #151515;
+    border-radius: 15px;
+    border: 2px solid #797676;
+    font-size: 30px;
+    margin-left: 19px;
+    margin-right: 20px;
+}
+
+.img-planet2 {
+    text-align: center;
+}
+
+.Mars1 {
+    color: white;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.Mars2 {
+    color: white;
+    text-align: center;
+    font-family: sans-serif;
+    background-color: #151515;
+    border-radius: 15px;
+    border: 2px solid #797676;
+    font-size: 30px;
+    margin-left: 19px;
+    margin-right: 20px;
+}
+
+.img-planet3 {
+    text-align: center;
+}
+
+.Ypiter1 {
+    color: white;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.Ypiter2 {
+    color: white;
+    text-align: center;
+    font-family: sans-serif;
+    background-color: #151515;
+    border-radius: 15px;
+    border: 2px solid #797676;
+    font-size: 30px;
+    margin-left: 19px;
+    margin-right: 20px;
+}
+
+.img-planet4 {
+    text-align: center;
+}
+
+.Uran1 {
+    color: white;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.Uran2 {
+    color: white;
+    text-align: center;
+    font-family: sans-serif;
+    background-color: #151515;
+    border-radius: 15px;
+    border: 2px solid #797676;
+    font-size: 30px;
+    margin-left: 19px;
+    margin-right: 20px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+}
+
+footer {
+    background-color: #211F20;
+}
+
+.logo-footer {
+    display: flex;
+    justify-content: center;
+}
+
+.footer-h1 {
+    color: white;
+    font-family: sans-serif;
+    text-align: center;
+}
